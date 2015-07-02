@@ -1,3 +1,6 @@
 #!/usr/bin/python
 
-print "Hello Andy"
+#print("first line,", end='')
+#print(" Hello Andy")
+
+print ("hello,\tworld!")
